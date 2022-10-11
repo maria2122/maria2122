@@ -2,10 +2,14 @@
 ## My name is Maria Jaqueline and my nickname is "Maria"!
 
 - 👀 I’m interested in : Data Structure in JavaScript, Elasticseach, APIs RESTful, NodeJS and Python.
-- 👀I'm also interested in competitive programming and solving various types of problems.
-- 🌱 I’m currently learning: Queries in Elasticsearch, APIs RESTful with library REQUESTS and FASTAPI in Python. 
+- 💻 I’m also interested in competitive programming and solving various types of problems.
 - 💞️ I’m looking to collaborate on Educational Projects, in order to bring the knowledge of computing to various communities.
-- 📫 How to reach me through social networks e e-mail : Linkedin: linkedin.com/in/mariajaquelinesantos199 and mariajsantos199@gmail.com
+
+## 🌱 I’m currently learning:
+Queries in Elasticsearch, APIs RESTful with library REQUESTS and FASTAPI in Python
+<img src="https://brandslogos.com/wp-content/uploads/images/large/elastic-elasticsearch-logo.png" width="40" height="40"/>
+<img src="https://cdn-icons-png.flaticon.com/512/2165/2165004.png" width="40" height="40"/>
+<img src="https://requests.readthedocs.io/projects/pt/pt_BR/latest/_static/requests-sidebar.png" width="40" height="40"/> 
 
 
 
@@ -16,11 +20,15 @@
 
 
 
-
-Commits:
+## Commits:
 
 ![Snake animation](https://github.com/maria2122/maria2122/blob/output/github-contribution-grid-snake.svg)
 
+<div>
+<a href="https://github.com/maria2122">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maria2122&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=maria2122&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 ## Contact:
 
@@ -30,3 +38,7 @@ Commits:
  <a href="https://instagram.com/maria.j.santos223/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
+Image Source:
+https://brandslogos.com/wp-content/uploads/images/large/elastic-elasticsearch-logo.png
+https://cdn-icons-png.flaticon.com/512/2165/2165004.png
+https://requests.readthedocs.io/projects/pt/pt_BR/latest/_static/requests-sidebar.png
