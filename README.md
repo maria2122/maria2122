@@ -6,10 +6,10 @@
 - 💞️ I’m looking to collaborate on Educational Projects, in order to bring the knowledge of computing to various communities.
 
 ## 🌱 I’m currently learning:
-Queries in Elasticsearch, APIs RESTful with library REQUESTS and FASTAPI in Python
-<img src="https://brandslogos.com/wp-content/uploads/images/large/elastic-elasticsearch-logo.png" width="40" height="40"/>
-<img src="https://cdn-icons-png.flaticon.com/512/2165/2165004.png" width="40" height="40"/>
-<img src="https://requests.readthedocs.io/projects/pt/pt_BR/latest/_static/requests-sidebar.png" width="40" height="40"/> 
+- Queries in Elasticsearch;
+- APIs RESTful with library REQUESTS and FASTAPI in Python;
+
+<img src="https://brandslogos.com/wp-content/uploads/images/large/elastic-elasticsearch-logo.png" width="40" height="40"/><img src="https://cdn-icons-png.flaticon.com/512/2165/2165004.png" width="40" height="40"/><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="40" height="40"/> 
 
 
 
@@ -38,7 +38,7 @@ Queries in Elasticsearch, APIs RESTful with library REQUESTS and FASTAPI in Pyth
  <a href="https://instagram.com/maria.j.santos223/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-Image Source:
+###### Image Source:
 https://brandslogos.com/wp-content/uploads/images/large/elastic-elasticsearch-logo.png
 https://cdn-icons-png.flaticon.com/512/2165/2165004.png
 https://requests.readthedocs.io/projects/pt/pt_BR/latest/_static/requests-sidebar.png
