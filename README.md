@@ -39,6 +39,6 @@
 </div>
 
 ###### Image Source:
-https://brandslogos.com/wp-content/uploads/images/large/elastic-elasticsearch-logo.png
-https://cdn-icons-png.flaticon.com/512/2165/2165004.png
-https://requests.readthedocs.io/projects/pt/pt_BR/latest/_static/requests-sidebar.png
+- https://brandslogos.com/wp-content/uploads/images/large/elastic-elasticsearch-logo.png
+- https://cdn-icons-png.flaticon.com/512/2165/2165004.png
+- https://requests.readthedocs.io/projects/pt/pt_BR/latest/_static/requests-sidebar.png
