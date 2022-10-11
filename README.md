@@ -1,7 +1,7 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Maria Jaqueline and my nickname is "Maria"!
 
-- 👀 I’m interested in : Data Structure in JavaScript, Elasticseach, APIs RESTful, NodeJS and Python.
+- 👀 I’m interested in : Data Structure in JavaScript and C++, Elasticseach, APIs RESTful, NodeJS and Python.
 - 💻 I’m also interested in competitive programming and solving various types of problems.
 - 💞️ I’m looking to collaborate on Educational Projects, in order to bring the knowledge of computing to various communities.
 
@@ -10,15 +10,6 @@
 - APIs RESTful with library REQUESTS and FASTAPI in Python;
 
 <img src="https://brandslogos.com/wp-content/uploads/images/large/elastic-elasticsearch-logo.png" width="40" height="40"/><img src="https://cdn-icons-png.flaticon.com/512/2165/2165004.png" width="40" height="40"/><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="40" height="40"/> 
-
-
-
-
-
-
-
-
-
 
 ## Commits:
 
