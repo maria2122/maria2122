@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Maria!
+## 👋 Hi, I’m Maria!
 - 👀 I’m interested in : Data Structure in JavaScript, Elasticseach, APIs RESTful, NodeJS and Python.
 - 👀I'm also interested in competitive programming and solving various types of problems.
 - 🌱 I’m currently learning: Queries in Elasticsearch, APIs RESTful with library REQUESTS and FASTAPI in Python. 
