@@ -3,7 +3,7 @@
 
 ## About:
 - :green_book: Studying Computer Science in <a href= "https://muz.ifsuldeminas.edu.br/">IFSULDEMINAS - Campus Muzambinho</a>
-- :briefcase: Software Development Trainee at <a href="https://levty.com/br/">LEVTY SISTEMAS LTDA</a>
+- :briefcase: Software Engineer at <a href="https://levty.com/br/">LEVTY SISTEMAS LTDA</a>
 - 👀 I’m interested in : Data Structure in JavaScript and C++, Elasticseach, APIs RESTful, NodeJS and Python;
 - 💻 I’m also interested in competitive programming and solving various types of problems;
 - 💞️ I’m looking to collaborate on Educational Projects, in order to bring the knowledge of computing to various communities;
