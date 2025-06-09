@@ -2,7 +2,7 @@
 ## My name is Maria Jaqueline and my nickname is "Maria"!
 
 ## About:
-- :green_book: Studying Computer Science in <a href= "https://muz.ifsuldeminas.edu.br/">IFSULDEMINAS - Campus Muzambinho</a>
+- :green_book: Computer Science in <a href= "https://muz.ifsuldeminas.edu.br/">IFSULDEMINAS - Campus Muzambinho</a>
 - :briefcase: Software Engineer at <a href="https://levty.com/br/">LEVTY SISTEMAS LTDA</a>
 - 👀 I’m interested in : Data Structure in JavaScript and C++, Elasticseach, APIs RESTful, NodeJS and Python;
 - 💻 I’m also interested in competitive programming and solving various types of problems;
